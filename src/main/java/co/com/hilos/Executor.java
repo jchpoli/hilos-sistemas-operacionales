@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * @author Jonathan Castelblanco Higuera <jcastelblanco@sistemasenlinea.com.co>
+ * @author Jonathan Castelblanco Higuera <jocastelblanco3@poligran.edu.co>
  */
 public class Executor {
 

@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 
 /**
- * @author Jonathan Castelblanco Higuera <jcastelblanco@sistemasenlinea.com.co>
+ * @author Jonathan Castelblanco Higuera <jocastelblanco3@poligran.edu.co>
  */
 public class Writer extends Thread {
 
